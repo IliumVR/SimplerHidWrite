@@ -1,0 +1,19 @@
+SimplerHidWrite Changelog
+=========================
+
+v1.2.0
+
+	- Fixed timeout error message when pressing the "Write" button.
+
+v1.1.0
+
+	- Reorganized bindings
+	- Fixed bug where report ID was not getting set in some cases
+	- Fixed bug where identifier for feature reports was all set to "setr" for set report
+	- Implemented saving out to a log file
+	- Implemented a feature where devices get re-selected if they are unplugged and plugged back in
+	- Added About button and filled out assembly information
+
+v1.0.0
+
+	- Initial release
