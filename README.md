@@ -1,6 +1,9 @@
 SimplerHidWrite
 ===============
 
+**NOTE**: New features and ongoing support will be provided in this fork:
+https://github.com/Robmaister/SimplerHidWrite
+
 A modern version of the [SimpleHidWrite](http://janaxelson.com/hidpage.htm)
 utility written in C#/WinForms.
 
